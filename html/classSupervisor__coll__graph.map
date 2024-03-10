@@ -1,0 +1,4 @@
+<map id="Supervisor" name="Supervisor">
+<area shape="rect" id="node1" title="All Supervisors should be made by this class." alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node2" href="$classEmployee.html" title="All employees are derived this class." alt="" coords="7,5,94,32"/>
+</map>
